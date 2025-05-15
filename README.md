@@ -1,3 +1,3 @@
-# Git_GitHub_Integration
-Make some litte change
-Some littel bug fix
+## Git_GitHub_Integration
+- This repo is about undertanding git and gitHub.
+- We look into creating branches, switching between different branches, making edits, merging branches and managing conflicts.
